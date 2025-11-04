@@ -44,5 +44,5 @@ cd nome-da-pasta-desejada
 ts-node nome-do-arquivo.ts
 ```
 
-✅ Não é necessário compilar para JavaScript antes de rodar.
+✅ Não é necessário compilar para JavaScript antes de rodar. <br>
 ✅ Não é necessário usar npx, pois o ts-node já é instalado como dependência do projeto.
