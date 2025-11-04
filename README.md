@@ -22,22 +22,27 @@ Ele serve como repositório de estudo e referência para exercícios feitos em T
 ### 1️⃣ Clonar o repositório  
 ```bash
 git clone https://github.com/eduardopagel140/atividades-praticas-ts.git
+```
 
 ### 2️⃣ Acessar o diretório do projeto
 ```bash
 cd atividades-praticas-ts
+```
 
 ### 3️⃣ Instalar as dependências
 ```bash
 npm install
+```
 
 ### 4️⃣ Entrar na pasta da atividade que você quer executar
 ```bash
 cd nome-da-pasta-desejada
+```
 
 ### 5️⃣ Executar o arquivo .ts diretamente com ts-node
 ```bash
 ts-node nome-do-arquivo.ts
+```
 
 ✅ Não é necessário compilar para JavaScript antes de rodar.
 ✅ Não é necessário usar npx, pois o ts-node já é instalado como dependência do projeto.
